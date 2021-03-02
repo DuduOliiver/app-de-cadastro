@@ -1,0 +1,16 @@
+/vscode/app-cadastro/obj/Debug/net5.0/app-cadastro.csprojAssemblyReference.cache
+/vscode/app-cadastro/obj/Debug/net5.0/app-cadastro.GeneratedMSBuildEditorConfig.editorconfig
+/vscode/app-cadastro/obj/Debug/net5.0/app-cadastro.AssemblyInfoInputs.cache
+/vscode/app-cadastro/obj/Debug/net5.0/app-cadastro.AssemblyInfo.cs
+/vscode/app-cadastro/obj/Debug/net5.0/app-cadastro.csproj.CoreCompileInputs.cache
+/vscode/app-cadastro/bin/Debug/net5.0/app-cadastro
+/vscode/app-cadastro/bin/Debug/net5.0/app-cadastro.deps.json
+/vscode/app-cadastro/bin/Debug/net5.0/app-cadastro.runtimeconfig.json
+/vscode/app-cadastro/bin/Debug/net5.0/app-cadastro.runtimeconfig.dev.json
+/vscode/app-cadastro/bin/Debug/net5.0/app-cadastro.dll
+/vscode/app-cadastro/bin/Debug/net5.0/ref/app-cadastro.dll
+/vscode/app-cadastro/bin/Debug/net5.0/app-cadastro.pdb
+/vscode/app-cadastro/obj/Debug/net5.0/app-cadastro.dll
+/vscode/app-cadastro/obj/Debug/net5.0/ref/app-cadastro.dll
+/vscode/app-cadastro/obj/Debug/net5.0/app-cadastro.pdb
+/vscode/app-cadastro/obj/Debug/net5.0/app-cadastro.genruntimeconfig.cache
